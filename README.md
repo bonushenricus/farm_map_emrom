@@ -1,6 +1,8 @@
 # farm_map_emrom
 Farmos map from wms of italian administrative region Emilia-Romagna
+
 See http://geoportale.regione.emilia-romagna.it/it/services/servizi-OGC/servizio-di-consultazione
+
 Exactly:
 * wms of soil http://geoportale.regione.emilia-romagna.it/it/services/servizi-OGC/servizio-di-consultazione/ambiente/carta-dei-suoli-wms :
   * layer 'Carta_Suoli_50k': named 'delineazioni del suolo': the delineations are areas defined for pedological history, which group different types of terrain. They are defined by numbers. For info on a number the URL address is this: https://agri.regione.emilia-romagna.it/Suoli/jsp/common/pannelloDelineazione.jspx?delin_id=9768 where id=number of delineation
